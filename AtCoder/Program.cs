@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AtCoder
+public static class Program
 {
-    class Program
+    public static void Main(params string[] args)
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
